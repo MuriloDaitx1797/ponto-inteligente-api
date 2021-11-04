@@ -1,0 +1,4 @@
+git status          - verificar status de novas alteracoes
+git add .           - prepara arquivos para o commit
+git commit -m "msg" - commita arquivos alterados
+push origin master  - envia para master as alteracoes 
